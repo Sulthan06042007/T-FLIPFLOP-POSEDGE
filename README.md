@@ -3,7 +3,7 @@
 **AIM:**
 
 To implement  T flipflop using verilog and validating their functionality using their functional tables
-
+A
 **SOFTWARE REQUIRED:**
 
 Quartus prime
@@ -44,8 +44,8 @@ From the above characteristic table, we can directly write the next state equati
 ```
 /*
 Program for flipflops and verify its truth table in quartus using Verilog programming. 
-Developed by: GAUTHAM KRISHNA S 
-RegisterNumber: 212223240036
+Developed by: MOHAMED SULTHAN A
+RegisterNumber: 212223230125
 */
 ```
 
